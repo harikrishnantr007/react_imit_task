@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_imit_task/static/css/main.d968b5d2.css",
+    "main.js": "/react_imit_task/static/js/main.22741759.js",
+    "static/js/592.f4f0ad5f.chunk.js": "/react_imit_task/static/js/592.f4f0ad5f.chunk.js",
+    "static/media/girl.svg": "/react_imit_task/static/media/girl.2652581fe2191ae84fc26553f67734e9.svg",
+    "static/media/CAPTCHARTSLOGO.svg": "/react_imit_task/static/media/CAPTCHARTSLOGO.25d700e08a44658f13baff06b648c918.svg",
+    "static/media/user1.jpg": "/react_imit_task/static/media/user1.309cc86a33eef83a263d.jpg",
+    "static/media/giphy.gif": "/react_imit_task/static/media/giphy.3d17e9d5bfe8907f35b0.gif",
+    "index.html": "/react_imit_task/index.html",
+    "static/media/Group.svg": "/react_imit_task/static/media/Group.43fd036fda66d7ed5d768f9f4c87f8d4.svg",
+    "static/media/Rectangle2.svg": "/react_imit_task/static/media/Rectangle2.4a73a88060dc6c46cd7a30a9f24df4c1.svg",
+    "static/media/Rectangle.svg": "/react_imit_task/static/media/Rectangle.df7d982fe68ef9df59dee0979de22b73.svg",
+    "main.d968b5d2.css.map": "/react_imit_task/static/css/main.d968b5d2.css.map",
+    "main.22741759.js.map": "/react_imit_task/static/js/main.22741759.js.map",
+    "592.f4f0ad5f.chunk.js.map": "/react_imit_task/static/js/592.f4f0ad5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d968b5d2.css",
+    "static/js/main.22741759.js"
+  ]
+}
