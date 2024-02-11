@@ -1,0 +1,127 @@
+ .model .overlay{
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: fixed; 
+}
+.overlay {
+    background: rgba(49,49,49,0.8);
+}
+
+
+.model{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background: hsl(28.42deg 61.29% 93.92%);
+}
+.popup-card{
+    height: 80vh;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 150%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 1.4;
+    
+    padding: 14px 28px;
+    z-index: 1;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+}
+.cards{
+    height: 70vh;
+    width: 80%;
+    background-color: white;
+    display: flex;
+    gap: 50px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.image-card{
+    height: 70vh;
+    width: 50%;
+}
+.card-img{
+    height: 93%;
+    width: 100%;
+    object-fit: cover;
+    padding: 20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.infocard{
+    height: 70vh;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.popup-head{
+    margin: 10px 0px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+.popup-profile{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.pop-profile-pic{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    background-color: burlywood;
+}
+.popup-report-btn{
+    padding: 5px 15px;
+    background-color: white;
+    border: 1px solid brown;
+    color: brown;
+    border-radius: 5px;
+}
+.pop-hrzline{
+    
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 70%;
+    align-items: center;
+}
+.popup-btns{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+.popup-btn{
+    height: 40px;
+    width: 150px;
+    border-radius: 15px;border: none;
+}
+.popup-btn-cmnt{
+    background-color: rgb(207 121 108);
+    color: white;
+}
+.popup-btn-like{
+    border: 1px solid rgb(207 121 108);
+    background-color: white;
+    color: rgb(207 121 108);
+}
+.popup-comment-box{
+    height: 50vh;
+    width: 90%;
+    background-color: rgba(234, 234, 234, 0.686);
+   
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 15px;
+}
+.popup-comment{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

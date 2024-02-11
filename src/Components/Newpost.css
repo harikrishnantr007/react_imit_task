@@ -1,0 +1,14 @@
+.newpost-form{
+     display: flex;
+     flex-direction: column;
+     gap: 15px;
+    }
+    .caption-input{
+     height: 30px;
+     width: 350px;
+     border: none;
+     background-color: rgb(209, 209, 207);
+     border-radius: 15px;
+     
+    }
+    

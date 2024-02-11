@@ -1,0 +1,46 @@
+.upload-box{
+
+     height: 45vh;
+     border: 1px solid black;
+     margin: 0px 50px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     border: none;
+    border-radius: 15px;
+     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+     position: relative;
+    
+    }
+    .upload-btn{
+     height: 40px;
+     width: 350px;
+     background-color: #c08c5d;
+     box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+     border: none;
+     color: white;
+     border-radius: 15px;
+     
+    }
+    .girl-imag{
+        position: absolute;
+        top: 15px;
+        height: 100%;
+        
+    
+    }
+    .rectangle-img{
+        position: absolute;
+        left: 20px;
+        top: 200px;
+    }
+    .rectangle2-img{
+        position: absolute;
+        left: 28px;
+        top: 207px;
+    }
+    .Group-img{
+        position: absolute;
+        top: 120px;
+        left: 800px;
+    }
